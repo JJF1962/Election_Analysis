@@ -15,3 +15,4 @@ This analysis allow to present the following results based on the data provided 
 
 ## Election Audit Summary
 It was a very challenging, that required to install and navigate with several it tools, however at the same time it was easier to code in Python than VBA, also Visual Studio Code, allowed to identified easier the wrong codes or sintaxies, indicating inclusive the line error, also I learned how to use Git Bash inside the VScode tool to identify and correct codes issues, and manage files with long data saved with the csv extension. Finally I was impressed how it is posibile to run over large data and produce sumarized results as the one showed in the previous and the similar ones saved in as text file as shown below:
+![This is an image] (
