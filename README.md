@@ -9,8 +9,6 @@ Furthermore the use of tools such as Visual Studio Code, Comand Line called Comm
 ##  Election Audit Results
 This analysis allow to present the following results based on the data provided in a document named Election Results (election_results.csv)
   * The voter turnout for each county.
-  The county of Jefferson shows a turnout of  38,855 votes, Denver a substatial bigger amount with 306,055 votes, finally Arapahoe shows 24,801 votes as insdicated in figure below.
-  
-  * The percentage of votes from each county out of the total count.
-  * The county with the higest turnout.
+  The county of Jefferson shows a turnout of  38,855 votes, Denver a substatial bigger amount with 306,055 votesand Arapahoe shows 24,801 votes; and the turnout of percentage of votes from each county out of the total count of 369,711 votes,  Jefferson represented 10.5%, Denver with 82.8% and Arapahoe with 6.7%; Therefore the county with the higest turnout was Denver that as indicated shows the majority of the votes (306,055) with the larger percentage of vote 82.8%. As detailed in figure below:
+! [This is an image](
 
